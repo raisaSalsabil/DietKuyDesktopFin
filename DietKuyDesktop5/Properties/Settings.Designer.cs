@@ -33,15 +33,14 @@ namespace DietKuyDesktop5.Properties {
             }
         }
         
-        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string setting {
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\\dietkuy5db.md" +
+            "f;Integrated Security=True;Connect Timeout=30")]
+        public string connstrngmdf {
             get {
-                return ((string)(this["setting"]));
-            }
-            set {
-                this["setting"] = value;
+                return ((string)(this["connstrngmdf"]));
             }
         }
     }
