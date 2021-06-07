@@ -1,0 +1,14 @@
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5Tests2\bin\Debug\dietkuy5db.mdf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5Tests2\bin\Debug\dietkuy5db_log.ldf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5Tests2\bin\Debug\DietKuyDesktop5Tests2.dll
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5Tests2\bin\Debug\DietKuyDesktop5Tests2.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5Tests2\bin\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5Tests2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5Tests2\bin\Debug\QRCoder.dll
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5Tests2\bin\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5Tests2\bin\Debug\DietKuyDesktop5.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5Tests2\obj\Debug\DietKuyDesktop5Tests2.csprojAssemblyReference.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5Tests2\obj\Debug\DietKuyDesktop5Tests2.csproj.CoreCompileInputs.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5Tests2\obj\Debug\DietKuyDesktop5Tests2.csproj.CopyComplete
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5Tests2\obj\Debug\DietKuyDesktop5Tests2.dll
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5Tests2\obj\Debug\DietKuyDesktop5Tests2.pdb
