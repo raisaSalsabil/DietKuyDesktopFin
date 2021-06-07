@@ -1,0 +1,462 @@
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ProductForm.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 6\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 6\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 6\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ProductForm.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 7\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 7\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 7\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 7\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 7\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 7\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 7\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ProductForm.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 7\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 7\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 7\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 7\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 7\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 7\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 7\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 8\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 8\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 8\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 8\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 8\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 8\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 8\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ProductForm.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 8\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 8\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 8\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 8\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 8\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 8\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 8\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 9\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 9\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 9\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 9\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 9\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.BMICalculator.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 9\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 9\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 9\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Home.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 9\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ProductForm.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 9\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 9\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 9\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 9\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 9\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 9\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 9\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.BMICalculator.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Home.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ProductForm.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.NormalWeight.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UnderWeight.resources
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\bin\Debug\DietKuyDbLibrary.exe
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\bin\Debug\DietKuyLibrary.exe
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\bin\Debug\DietKuyDbLibrary.pdb
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\bin\Debug\DietKuyDbLibrary.exe.config
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\bin\Debug\DietKuyLibrary.pdb
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\bin\Debug\DietKuyLibrary.exe.config
+C:\Users\Raisa Salsabila\source\repos\DietKuyDesktop5 - 10\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CopyComplete
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\bin\Debug\DietKuyDbLibrary.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\bin\Debug\DietKuyLibrary.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\bin\Debug\DietKuyDbLibrary.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\bin\Debug\DietKuyDbLibrary.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\bin\Debug\DietKuyLibrary.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\bin\Debug\DietKuyLibrary.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.BMICalculator.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Home.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.NormalWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ManageDayMenu.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UnderWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CopyComplete
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 11\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\bin\Debug\DietKuyDbLibrary.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\bin\Debug\DietKuyLibrary.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\bin\Debug\DietKuyDbLibrary.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\bin\Debug\DietKuyDbLibrary.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\bin\Debug\DietKuyLibrary.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\bin\Debug\DietKuyLibrary.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.BMICalculator.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Home.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.NormalWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ManageDayMenu.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UnderWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CopyComplete
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 13 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\bin\Debug\dietkuy5db.mdf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\bin\Debug\dietkuy5db_log.ldf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\bin\Debug\DietKuyDbLibrary.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\bin\Debug\DietKuyLibrary.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\bin\Debug\DietKuyDbLibrary.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\bin\Debug\DietKuyDbLibrary.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\bin\Debug\DietKuyLibrary.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\bin\Debug\DietKuyLibrary.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.BMICalculator.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Home.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.NormalWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ManageDayMenu.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UnderWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CopyComplete
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 14 - DIUBAH SEMENTARA\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 15 - dibuat folder DAL\DietKuyDesktop5\bin\Debug\dietkuy5db.mdf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 15 - dibuat folder DAL\DietKuyDesktop5\bin\Debug\dietkuy5db_log.ldf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 15 - dibuat folder DAL\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 15 - dibuat folder DAL\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 15 - dibuat folder DAL\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 15 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 15 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.BMICalculator.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 15 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 15 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 15 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Home.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 15 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.NormalWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 15 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ManageDayMenu.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 15 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 15 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 15 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 15 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UnderWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 15 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 15 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 15 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 15 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 18 - dibuat folder DAL\DietKuyDesktop5\bin\Debug\dietkuy5db.mdf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 18 - dibuat folder DAL\DietKuyDesktop5\bin\Debug\dietkuy5db_log.ldf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 18 - dibuat folder DAL\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 18 - dibuat folder DAL\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 18 - dibuat folder DAL\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 18 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 18 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.BMICalculator.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 18 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 18 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 18 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Home.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 18 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.NormalWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 18 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ManageDayMenu.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 18 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 18 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 18 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 18 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UnderWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 18 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 18 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 18 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 18 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 19 - dibuat folder DAL\DietKuyDesktop5\bin\Debug\dietkuy5db.mdf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 19 - dibuat folder DAL\DietKuyDesktop5\bin\Debug\dietkuy5db_log.ldf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 19 - dibuat folder DAL\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 19 - dibuat folder DAL\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 19 - dibuat folder DAL\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 19 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 19 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.BMICalculator.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 19 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 19 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 19 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Home.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 19 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.NormalWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 19 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ManageDayMenu.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 19 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 19 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 19 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 19 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UnderWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 19 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 19 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 19 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 19 - dibuat folder DAL\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 20\DietKuyDesktop5\bin\Debug\dietkuy5db.mdf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 20\DietKuyDesktop5\bin\Debug\dietkuy5db_log.ldf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 20\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 20\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 20\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 20\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 20\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.BMICalculator.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 20\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 20\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 20\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Home.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 20\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.NormalWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 20\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ManageDayMenu.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 20\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 20\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 20\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 20\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UnderWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 20\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 20\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 20\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 20\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 21\DietKuyDesktop5\bin\Debug\dietkuy5db.mdf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 21\DietKuyDesktop5\bin\Debug\dietkuy5db_log.ldf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 21\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 21\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 21\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 21\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 21\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.BMICalculator.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 21\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 21\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 21\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Home.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 21\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.NormalWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 21\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ManageDayMenu.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 21\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 21\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 21\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 21\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UnderWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 21\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 21\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 21\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 21\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 25 - bug fixed\DietKuyDesktop5\bin\Debug\dietkuy5db.mdf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 25 - bug fixed\DietKuyDesktop5\bin\Debug\dietkuy5db_log.ldf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 25 - bug fixed\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 25 - bug fixed\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 25 - bug fixed\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 25 - bug fixed\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 25 - bug fixed\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.BMICalculator.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 25 - bug fixed\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 25 - bug fixed\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 25 - bug fixed\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Home.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 25 - bug fixed\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.NormalWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 25 - bug fixed\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ManageDayMenu.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 25 - bug fixed\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 25 - bug fixed\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 25 - bug fixed\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 25 - bug fixed\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UnderWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 25 - bug fixed\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 25 - bug fixed\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 25 - bug fixed\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 25 - bug fixed\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 25 - bug fixed\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UI.frmDelivery.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 26 - db address fixing\DietKuyDesktop5\bin\Debug\dietkuy5db.mdf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 26 - db address fixing\DietKuyDesktop5\bin\Debug\dietkuy5db_log.ldf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 26 - db address fixing\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 26 - db address fixing\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 26 - db address fixing\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 26 - db address fixing\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 26 - db address fixing\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.BMICalculator.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 26 - db address fixing\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 26 - db address fixing\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 26 - db address fixing\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Home.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 26 - db address fixing\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.NormalWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 26 - db address fixing\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ManageDayMenu.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 26 - db address fixing\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 26 - db address fixing\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 26 - db address fixing\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 26 - db address fixing\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UI.FrmDelivery.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 26 - db address fixing\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UnderWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 26 - db address fixing\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 26 - db address fixing\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 26 - db address fixing\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 26 - db address fixing\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 2\DietKuyDesktop5\bin\Debug\dietkuy5db.mdf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 2\DietKuyDesktop5\bin\Debug\dietkuy5db_log.ldf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 2\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 2\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 2\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 2\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 2\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.BMICalculator.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 2\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 2\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 2\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Home.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 2\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.NormalWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 2\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ManageDayMenu.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 2\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 2\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 2\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 2\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UI.FrmDelivery.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 2\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UnderWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 2\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 2\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 2\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 2\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 3\DietKuyDesktop5\bin\Debug\dietkuy5db.mdf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 3\DietKuyDesktop5\bin\Debug\dietkuy5db_log.ldf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 3\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 3\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 3\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 3\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 3\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.BMICalculator.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 3\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 3\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 3\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Home.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 3\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.NormalWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 3\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ManageDayMenu.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 3\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 3\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 3\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 3\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UI.FrmDelivery.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 3\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UnderWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 3\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 3\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 3\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 27 - db address fixing 3\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 28 - db address fixing 4\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 28 - db address fixing 4\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 28 - db address fixing 4\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 28 - db address fixing 4\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 28 - db address fixing 4\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.BMICalculator.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 28 - db address fixing 4\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 28 - db address fixing 4\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 28 - db address fixing 4\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Home.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 28 - db address fixing 4\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.NormalWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 28 - db address fixing 4\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ManageDayMenu.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 28 - db address fixing 4\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 28 - db address fixing 4\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 28 - db address fixing 4\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 28 - db address fixing 4\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UI.FrmDelivery.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 28 - db address fixing 4\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UnderWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 28 - db address fixing 4\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 28 - db address fixing 4\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 28 - db address fixing 4\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 28 - db address fixing 4\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 30 - db address fixing 6\DietKuyDesktop5\bin\Debug\dietkuy5db.mdf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 30 - db address fixing 6\DietKuyDesktop5\bin\Debug\dietkuy5db_log.ldf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 30 - db address fixing 6\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 30 - db address fixing 6\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 30 - db address fixing 6\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 30 - db address fixing 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 30 - db address fixing 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.BMICalculator.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 30 - db address fixing 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 30 - db address fixing 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 30 - db address fixing 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Home.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 30 - db address fixing 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.NormalWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 30 - db address fixing 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ManageDayMenu.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 30 - db address fixing 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 30 - db address fixing 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 30 - db address fixing 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 30 - db address fixing 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UI.FrmDelivery.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 30 - db address fixing 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UnderWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 30 - db address fixing 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 30 - db address fixing 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 30 - db address fixing 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\DietKuyDesktop5 - 30 - db address fixing 6\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 5\DietKuyDesktop5\DietKuyDesktop5\bin\Debug\dietkuy5db.mdf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 5\DietKuyDesktop5\DietKuyDesktop5\bin\Debug\dietkuy5db_log.ldf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 5\DietKuyDesktop5\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 5\DietKuyDesktop5\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 5\DietKuyDesktop5\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 5\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 5\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.BMICalculator.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 5\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 5\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 5\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Home.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 5\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.NormalWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 5\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ManageDayMenu.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 5\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 5\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 5\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 5\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UI.FrmDelivery.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 5\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UnderWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 5\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 5\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 5\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 5\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 7\DietKuyDesktop5\DietKuyDesktop5\bin\Debug\dietkuy5db.mdf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 7\DietKuyDesktop5\DietKuyDesktop5\bin\Debug\dietkuy5db_log.ldf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 7\DietKuyDesktop5\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 7\DietKuyDesktop5\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 7\DietKuyDesktop5\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 7\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 7\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.BMICalculator.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 7\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.CategoryForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 7\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Form1.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 7\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Home.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 7\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.NormalWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 7\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ManageDayMenu.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 7\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 7\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.SellerForm.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 7\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 7\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UI.FrmDelivery.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 7\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UnderWeight.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 7\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 7\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 7\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\Tugas Database\KUMPULIN 7\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\bin\Debug\dietkuy5db.mdf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\bin\Debug\dietkuy5db_log.ldf
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe.config
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\bin\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csprojAssemblyReference.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.BMICalculator.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.ManageDayMenu.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Properties.Resources.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.Splash.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UI.FrmDelivery.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.GenerateResource.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CoreCompileInputs.cache
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.exe
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.pdb
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UI.ManageNightMenu.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UI.FrmChooseMenu.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.FrmLogin.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UI.AdminHome.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.UI.ClientHome.resources
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\bin\Debug\QRCoder.dll
+C:\D\PELAJARAN KULIAH\Semester 2\PBO A\PROYEK PERSONAL PBO RAISA (MAIN)\Proyek PBO Personal MAIN\DietKuyDesktop5\DietKuyDesktop5\obj\Debug\DietKuyDesktop5.csproj.CopyComplete
