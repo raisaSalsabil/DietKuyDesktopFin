@@ -31,6 +31,7 @@ namespace DietKuyDesktop5.UI
         {
             this.btnHome = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.btnClear = new System.Windows.Forms.Button();
             this.lblMessage = new System.Windows.Forms.Label();
             this.cbExtra = new System.Windows.Forms.ComboBox();
             this.lblExtra = new System.Windows.Forms.Label();
@@ -52,7 +53,6 @@ namespace DietKuyDesktop5.UI
             this.lblProdId = new System.Windows.Forms.Label();
             this.lblManageNightMenu = new System.Windows.Forms.Label();
             this.pbBack = new System.Windows.Forms.PictureBox();
-            this.btnClear = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvProd)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbBack)).BeginInit();
@@ -102,6 +102,19 @@ namespace DietKuyDesktop5.UI
             this.panel1.Size = new System.Drawing.Size(1104, 591);
             this.panel1.TabIndex = 20;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+            // 
+            // btnClear
+            // 
+            this.btnClear.BackColor = System.Drawing.Color.White;
+            this.btnClear.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnClear.ForeColor = System.Drawing.Color.DarkGreen;
+            this.btnClear.Location = new System.Drawing.Point(299, 544);
+            this.btnClear.Name = "btnClear";
+            this.btnClear.Size = new System.Drawing.Size(96, 39);
+            this.btnClear.TabIndex = 30;
+            this.btnClear.Text = "CLEAR";
+            this.btnClear.UseVisualStyleBackColor = false;
+            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
             // 
             // lblMessage
             // 
@@ -352,19 +365,6 @@ namespace DietKuyDesktop5.UI
             this.pbBack.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbBack.TabIndex = 35;
             this.pbBack.TabStop = false;
-            // 
-            // btnClear
-            // 
-            this.btnClear.BackColor = System.Drawing.Color.White;
-            this.btnClear.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnClear.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnClear.Location = new System.Drawing.Point(299, 544);
-            this.btnClear.Name = "btnClear";
-            this.btnClear.Size = new System.Drawing.Size(96, 39);
-            this.btnClear.TabIndex = 30;
-            this.btnClear.Text = "CLEAR";
-            this.btnClear.UseVisualStyleBackColor = false;
-            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
             // 
             // ManageNightMenu
             // 
