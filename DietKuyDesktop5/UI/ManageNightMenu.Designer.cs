@@ -183,7 +183,7 @@ namespace DietKuyDesktop5.UI
             // dgvProd
             // 
             this.dgvProd.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvProd.Location = new System.Drawing.Point(409, 166);
+            this.dgvProd.Location = new System.Drawing.Point(409, 165);
             this.dgvProd.Name = "dgvProd";
             this.dgvProd.RowHeadersWidth = 51;
             this.dgvProd.RowTemplate.Height = 24;
