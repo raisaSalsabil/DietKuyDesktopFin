@@ -26,7 +26,8 @@ namespace DietKuyDesktop5.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(local);Initial Catalog=DietKuyDb6;Integrated Security=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\\dietkuy5db.md" +
+            "f;Integrated Security=True;Connect Timeout=30")]
         public string connstrng {
             get {
                 return ((string)(this["connstrng"]));
@@ -36,11 +37,17 @@ namespace DietKuyDesktop5.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\\dietkuy5db.md" +
-            "f;Integrated Security=True;Connect Timeout=30")]
-        public string connstrngmdf {
+        public string a {
             get {
-                return ((string)(this["connstrngmdf"]));
+                return ((string)(this["a"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        public int c {
+            get {
+                return ((int)(this["c"]));
             }
         }
     }

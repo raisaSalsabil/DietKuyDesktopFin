@@ -5,24 +5,24 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
 
-
 namespace DietKuyDesktop5.DAL
 {
-    public sealed class DayMenuDAL
+    public sealed class NightMenuDAL
     {
         //SINGLETON REFACTORING
-        private static DayMenuDAL instance = null;
-        public static DayMenuDAL GetInstance
+        private static NightMenuDAL instance = null;
+        public static NightMenuDAL GetInstance
         {
             get
             {
                 if (instance == null)
-                    instance = new DayMenuDAL();
+                    instance = new NightMenuDAL();
                 return instance;
             }
         }
-        private DayMenuDAL() { }
+        private NightMenuDAL() { }
         //SINGLETON REFACTORING
+
 
 
         //Create a Static String to Connect Database
@@ -41,7 +41,7 @@ namespace DietKuyDesktop5.DAL
             try
             {
                 // WRite SQL Qery to Get Data from Database
-                String sql = "SELECT * FROM DayMenuTbl";
+                String sql = "SELECT * FROM NightMenuTbl";
 
                 //Create SQL Command to Execute Query
                 SqlCommand cmd = new SqlCommand(sql, conn);
@@ -70,8 +70,8 @@ namespace DietKuyDesktop5.DAL
         }
         #endregion
 
-        #region Insert Data into Database for Day Menu Module
-        public bool Insert(DayMenuBLL u)
+        #region Insert Data into Database for Night Menu Module
+        public bool Insert(NightMenuBLL u)
         {
             //Create a boolean variable and set its default value to false
             bool isSuccess = false;
@@ -82,7 +82,7 @@ namespace DietKuyDesktop5.DAL
             try
             {
                 //Create a String Variable to Store the INSERT Query
-                String sql = "INSERT INTO DayMenuTbl(ProdId, ProdName, ProdQty, ProdPrice, ProdCat) VALUES (@ProdId, @ProdName, @ProdQty, @ProdPrice, @ProdCat)";
+                String sql = "INSERT INTO NightMenuTbl(ProdId, ProdName, ProdQty, ProdPrice, ProdCat, ProdSize, ProdExtra) VALUES (@ProdId, @ProdName, @ProdQty, @ProdPrice, @ProdCat, @ProdSize, @ProdExtra)";
 
                 //Create a SQL Command to pass the value in our query
                 SqlCommand cmd = new SqlCommand(sql, conn);
@@ -93,6 +93,8 @@ namespace DietKuyDesktop5.DAL
                 cmd.Parameters.AddWithValue("@ProdQty", u.ProdQty);
                 cmd.Parameters.AddWithValue("@ProdPrice", u.ProdPrice);
                 cmd.Parameters.AddWithValue("@ProdCat", u.ProdCat);
+                cmd.Parameters.AddWithValue("@ProdSize", u.ProdSize);
+                cmd.Parameters.AddWithValue("@ProdExtra", u.ProdExtra);
 
                 //Open Database Connection
                 conn.Open();
@@ -130,7 +132,7 @@ namespace DietKuyDesktop5.DAL
         #endregion
 
         #region UPDATE data in database (User Module)
-        public bool Update(DayMenuBLL u)
+        public bool Update(NightMenuBLL u)
         {
             //Create a Boolean variable and set its default value to false
             bool isSuccess = false;
@@ -141,7 +143,7 @@ namespace DietKuyDesktop5.DAL
             try
             {
                 //Create a string variable to hold the sql query
-                string sql = "UPDATE DayMenuTbl SET ProdId=@ProdId, ProdName=@ProdName, ProdQty=@ProdQty, ProdPrice=@ProdPrice, ProdCat=@ProdCat";
+                string sql = "UPDATE NightMenuTbl SET ProdId=@ProdId, ProdName=@ProdName, ProdQty=@ProdQty, ProdPrice=@ProdPrice, ProdCat=@ProdCat, ProdSize=@ProdSize, ProdExtra=@ProdExtra";
 
                 //Create Sql Command to execute query and also pass the values to sql query
                 SqlCommand cmd = new SqlCommand(sql, conn);
@@ -152,6 +154,8 @@ namespace DietKuyDesktop5.DAL
                 cmd.Parameters.AddWithValue("@ProdQty", u.ProdQty);
                 cmd.Parameters.AddWithValue("@ProdPrice", u.ProdPrice);
                 cmd.Parameters.AddWithValue("@ProdCat", u.ProdCat); ;
+                cmd.Parameters.AddWithValue("@ProdSize", u.ProdSize);
+                cmd.Parameters.AddWithValue("@ProdExtra", u.ProdExtra);
 
                 //open Database Connection
                 conn.Open();
@@ -190,7 +194,7 @@ namespace DietKuyDesktop5.DAL
         #endregion
 
         #region Delete Data from Database (User Module)
-        public bool Delete(DayMenuBLL u)
+        public bool Delete(NightMenuBLL u)
         {
             //Create a boolean variable and set its default value to false
             bool isSuccess = false;
@@ -201,7 +205,7 @@ namespace DietKuyDesktop5.DAL
             try
             {
                 //Create a string variable to hold the sql query to delete data
-                String sql = "DELETE FROM DayMenuTbl WHERE ProdId=@ProdId";
+                String sql = "DELETE FROM NightMenuTbl WHERE ProdId=@ProdId";
 
                 //Create Sql Command to Execute the Query
                 SqlCommand cmd = new SqlCommand(sql, conn);
@@ -244,7 +248,5 @@ namespace DietKuyDesktop5.DAL
             return isSuccess;
         }
         #endregion
-
-
     }
 }

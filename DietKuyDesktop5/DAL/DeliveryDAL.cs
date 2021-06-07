@@ -1,20 +1,31 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using DietKuyDesktop5.BLL;
+using System;
 using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
-using DietKuyDesktop5.BLL;
 
 namespace DietKuyDesktop5.DAL
 {
-    class DeliveryDAL
+    public sealed class DeliveryDAL
     {
+        //SINGLETON REFACTORING
+        private static DeliveryDAL instance = null;
+        public static DeliveryDAL GetInstance
+        {
+            get
+            {
+                if (instance == null)
+                    instance = new DeliveryDAL();
+                return instance;
+            }
+        }
+        private DeliveryDAL() { }
+        //SINGLETON REFACTORING
+
+
         //Create a Static String to Connect Database
-        static string myconnstrng = ConfigurationManager.ConnectionStrings["connstrng"].ConnectionString;
+        static string myconnstrng = ConfigurationManager.ConnectionStrings["DietKuyDesktop5.Properties.Settings.connstrng"].ConnectionString;
 
 
         #region SELECT data from database

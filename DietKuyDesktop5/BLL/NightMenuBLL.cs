@@ -1,19 +1,19 @@
 ﻿namespace DietKuyDesktop5.BLL
 {
-    public sealed class DayMenuBLL : IMenu
+    public sealed class NightMenuBLL : IMenu
     {
         //SINGLETON REFACTORING
-        private static DayMenuBLL instance = null;
-        public static DayMenuBLL GetInstance
+        private static NightMenuBLL instance = null;
+        public static NightMenuBLL GetInstance
         {
             get
             {
                 if (instance == null)
-                    instance = new DayMenuBLL();
+                    instance = new NightMenuBLL();
                 return instance;
             }
         }
-        private DayMenuBLL() { }
+        private NightMenuBLL() { }
         //SINGLETON REFACTORING
 
         public int ProdId { get; set; }
@@ -21,9 +21,11 @@
         public int ProdQty { get; set; }
         public int ProdPrice { get; set; }
         public string ProdCat { get; set; }
+        public string ProdSize { get; set; }
+        public string ProdExtra { get; set; }
         public string PrintMessage()
         {
-            return ("Welcome to Day Menu Manager. This page is only accessible for administrator. All field must be filled.");
+            return ("Welcome to Night Menu Manager. This page is only accessible for administrator. All field must be filled. For night menu, various size and extra service is available.");
         }
         public void InsertMenu()
         {
@@ -39,8 +41,7 @@
         }
         public void ShowMenu()
         {
-            //Ada di DAL
+            //Ada di
         }
-
     }
 }

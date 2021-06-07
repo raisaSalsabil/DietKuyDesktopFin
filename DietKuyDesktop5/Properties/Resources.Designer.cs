@@ -63,16 +63,6 @@ namespace DietKuyDesktop5.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bmiTable {
-            get {
-                object obj = ResourceManager.GetObject("bmiTable", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap home {
             get {
                 object obj = ResourceManager.GetObject("home", resourceCulture);
@@ -83,9 +73,9 @@ namespace DietKuyDesktop5.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap main {
+        internal static System.Drawing.Bitmap HomeImage_min {
             get {
-                object obj = ResourceManager.GetObject("main", resourceCulture);
+                object obj = ResourceManager.GetObject("HomeImage-min", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +83,9 @@ namespace DietKuyDesktop5.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap main_flip {
+        internal static System.Drawing.Bitmap Kategori_BMI {
             get {
-                object obj = ResourceManager.GetObject("main-flip", resourceCulture);
+                object obj = ResourceManager.GetObject("Kategori BMI", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +93,29 @@ namespace DietKuyDesktop5.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap main1 {
+        internal static System.Drawing.Bitmap labelBack {
             get {
-                object obj = ResourceManager.GetObject("main1", resourceCulture);
+                object obj = ResourceManager.GetObject("labelBack", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap LoginImage {
+            get {
+                object obj = ResourceManager.GetObject("LoginImage", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SplashImage {
+            get {
+                object obj = ResourceManager.GetObject("SplashImage", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
