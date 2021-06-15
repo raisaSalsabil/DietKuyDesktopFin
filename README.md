@@ -1,5 +1,7 @@
 # DietKuyDesktopFin
 DietKuy adalah aplikasi untuk melakukan pengelolaan dan pemesanan menu diet dengan rekomendasi menu berdasarkan BMI (Body Mass Index) pengguna. Aplikasi ini menyediakan kalkulator BMI yang kemudian dapat diteruskan dengan pemesanan menu. Setelah memilih menu, pengguna dapat memilih alamat pengiriman. Lalu, aplikasi dapat meng-generate QR Code yang berisi informasi pemesanan. Selain itu, dari sisi administrator terdapat akses untuk menambahkan, mengedit, dan menghapus menu diet yang tersedia.
+
+<br>
 USERNAME DAN PASSWORD
 <br>
 
