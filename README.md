@@ -23,16 +23,38 @@ Jika dengan Visual Studio: <br>
 1.	Klik solution project .sln dan run
 2.	Log in sebagai User atau Admin dengan password di atas
 3.	Anda sudah sampai di Home, silakan pilih page yang ingin dibuka
+
+<br>
 Page yang tersedia:
 
-a.	Sebagai User (jika login sebagai user)
+a.	Sebagai Administrator
+1)	Page Manage Day Menu
+-	Isi seluruh textbox dengan rincian menu siang, contoh: 
+    - ID: 1456 (ID harus integer unik)
+    - Name: Honey Toast
+    - Quantity: 15
+    - Price: 15000
+    - Category: Underweight -Food 
+-	Klik Add untuk menambahkan menu baru, Edit untuk mengubah menu yang sudah ada, atau Delete untuk menghapus data dari tabel
+-	Kembali ke Home dengan klik button Home
+
+2)	Page Manage Night Menu
+- Isi seluruh textbox dengan rincian menu malam, contoh: <br>
+    - Sama seperti day menu, dengan tambahan:
+    - Size: Normal
+    - Extra: None
+
+-	Klik Add untuk menambahkan menu baru, Edit untuk mengubah menu yang sudah ada, atau Delete untuk menghapus data dari tabel
+-	Kembali ke Home dengan klik button Home
+
+b.	Sebagai User (jika login sebagai user)
 1)	Page Add Address
 -	Isi seluruh textbox, contoh:
-ID: 12347 (harus angka unik)
-Name: Saskia Mirna
-Phone: 081326545487
-Address: Jalan Tanjakan Biru No.46, Bukit Bersama
-Desc: Rumah warna kuning
+	  - ID: 12347 (harus angka unik)
+    - Name: Saskia Mirna
+    - Phone: 081326545487
+    - Address: Jalan Tanjakan Biru No.46, Bukit Bersama
+    - Desc: Rumah warna kuning
 
 -	Klik Add untuk menambahkan alamat baru, Edit untuk mengubah alamat yang sudah ada, atau Delete untuk menghapus data dari tabel.
 -	Kembali ke Home dengan klik button Home
@@ -41,28 +63,10 @@ Desc: Rumah warna kuning
 -	Klik “Check BMI”
 -	Nilai BMI dan kategorinya akan ditampilkan
 -	Klik “Check Menu” untuk melihat menu diet yang tersedia. 
+-	Klik menu yang dipilih pada tabel
 -	Anda dapat menyesuaikan pilihan menu sesuai dengan kategori anda dengan memilih keterangan kategori yang sama pada tabel
 -	Klik salah satu alamat pada tabel
 -	Klik “Generate QR Code” untuk menampilkan QR Code
 -	Klik “Order Now!” untuk melakukan pemesanan
 
-b.	Sebagai Administrator
-1)	Page Manage Day Menu
--	Isi seluruh textbox dengan rincian menu siang, ontoh: 
-ID: 1456 (ID harus integer unik)
-Name: Honey Toast
-Quantity: 15
-Price: 15000
-Category: Underweight -Food 
--	Klik Add untuk menambahkan menu baru, Edit untuk mengubah menu yang sudah ada, atau Delete untuk menghapus data dari tabel
--	Kembali ke Home dengan klik button Home
-
-2)	Page Manage Night Menu
-Isi seluruh textbox dengan rincian menu malam, contoh:
-Sama seperti day menu, dengan tambahan:
-Size: Normal
-Extra: None
-
--	Klik Add untuk menambahkan menu baru, Edit untuk mengubah menu yang sudah ada, atau Delete untuk menghapus data dari tabel
--	Kembali ke Home dengan klik button Home
 
